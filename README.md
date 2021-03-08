@@ -12,7 +12,7 @@
 > <br/>
 > *(Why Python is the most used?🤔)*
 
-###[VK](https://vk.com/freakssha) | [Instagram](https://instagram.com/freakssha) | [Habr](https://habr.com/freakssha) | [YouTube](https://www.youtube.com/channel/UCjpcZfENJ6gqY9A1F-C2CYg) | Or write: lestreng.begi@gmail.com
+### [VK](https://vk.com/freakssha) | [Instagram](https://instagram.com/freakssha) | [Habr](https://habr.com/freakssha) | [YouTube](https://www.youtube.com/channel/UCjpcZfENJ6gqY9A1F-C2CYg) | Or write: lestreng.begi@gmail.com
 
 >### 🎢 Results
 > [![freakssha's GitHub stats](https://github-readme-stats.vercel.app/api?username=freakssha&hide=prs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
