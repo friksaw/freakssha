@@ -19,4 +19,4 @@
 - [Telegram бот + модель машинного обучения за 1 минуту! | гениальный гайд по программингу (YOUTUBE)](https://www.youtube.com/watch?v=b0FU1q9veNM)
 - [Презентация it-стартапа LocaNews (YOUTUBE)](https://www.youtube.com/watch?v=oQJ9XCv3Inc)
 
-### [VK](https://vk.com/freakssha) | [Instagram](https://instagram.com/freakssha) | [Habr](https://habr.com/freakssha) | [YouTube](https://www.youtube.com/channel/UCjpcZfENJ6gqY9A1F-C2CYg) | Or write: lestreng.begi@gmail.com
+### [VK](https://vk.com/freakssha) | [Instagram](https://instagram.com/freakssha) | [Habr](https://habr.com/ru/users/freakssha/) | [YouTube](https://www.youtube.com/channel/UCjpcZfENJ6gqY9A1F-C2CYg) | Or write: lestreng.begi@gmail.com
