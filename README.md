@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/freakssha)
 
-### Languages and Tools:
+### Languages and Tools
 - ***✨FOR FRONTEND:*** ReactJS, NextJS, SaaS, Redux, VK UI, Material-UI, mongoose
 - ***🔗FOR BACKEND (+APIs):*** Python, Flask
 - ***📊FOR DATA SCIENCE:*** Jupyter, pyplot, numpy, pandas, seaborn
@@ -17,6 +17,7 @@
 ### 📣 Publications
  
 - [Telegram + ML: универсальный алгоритм совместимости (HABR)](https://habr.com/ru/sandbox/149942/)
+- [Интернет-мошенничество в регионе: почему раскрываемость низкая, а жертв все больше (HABR)](https://habr.com/ru/post/550212/)
 - [Telegram бот + модель машинного обучения за 1 минуту! | гениальный гайд по программингу (YOUTUBE)](https://www.youtube.com/watch?v=b0FU1q9veNM)
 - [Презентация it-стартапа LocaNews (YOUTUBE)](https://www.youtube.com/watch?v=oQJ9XCv3Inc)
 
