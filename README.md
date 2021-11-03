@@ -3,15 +3,9 @@
 ![Profile views](https://gpvc.arturio.dev/freakssha)
 
 ### Languages and Tools
-- ***✨FOR FRONTEND:*** ReactJS, NextJS, SaaS, Redux, VK UI, Material-UI, mongoose
+- ***✨FOR FRONTEND:*** JS/TS, Styled Components, ReactJS, NextJS, SaaS, Redux, mongoose
 - ***🔗FOR BACKEND (+APIs):*** Python, Flask
 - ***📊FOR DATA SCIENCE:*** Jupyter, pyplot, numpy, pandas, seaborn
-- ***🤡OTHER:*** TelegramBotAPI, Tkinter, VK miniapps official api
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakssha&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-*(Why Python is the most used?🤔)*
-<br/>
 <br/>
  [![freakssha's GitHub stats](https://github-readme-stats.vercel.app/api?username=freakssha&hide=prs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 📣 Publications
