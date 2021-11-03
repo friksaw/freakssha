@@ -6,8 +6,8 @@
 - ***✨FOR FRONTEND:*** JS/TS, Styled Components, ReactJS, NextJS, SaaS, Redux, mongoose
 - ***🔗FOR BACKEND (+APIs):*** Python, Flask
 - ***📊FOR DATA SCIENCE:*** Jupyter, pyplot, numpy, pandas, seaborn
-<br/>
-<br/>
+
+
 [![freakssha's GitHub stats](https://github-readme-stats.vercel.app/api?username=freakssha&hide=prs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📣 Publications
