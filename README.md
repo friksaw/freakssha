@@ -7,7 +7,7 @@
 - ***🔗FOR BACKEND (+APIs):*** Python, Flask
 - ***📊FOR DATA SCIENCE:*** Jupyter, pyplot, numpy, pandas, seaborn
 <br/>
- [![freakssha's GitHub stats](https://github-readme-stats.vercel.app/api?username=freakssha&hide=prs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[[freakssha's GitHub stats](https://github-readme-stats.vercel.app/api?username=freakssha&hide=prs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 📣 Publications
  
 - [Telegram + ML: универсальный алгоритм совместимости (HABR)](https://habr.com/ru/sandbox/149942/)
