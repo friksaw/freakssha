@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/freakssha)
 
 ### Languages and Tools
-- ***✨FOR FRONTEND:*** JS/TS, Styled Components, ReactJS, NextJS, SaaS, Redux, mongoose
+- ***✨FOR FRONTEND:*** JS/TS, Vue, ReactJS, NextJS, SaaS, Redux, Styled Components, mongoose
 - ***🔗FOR BACKEND (+APIs):*** Python, Flask
 - ***📊FOR DATA SCIENCE:*** Jupyter, pyplot, numpy, pandas, seaborn
 
